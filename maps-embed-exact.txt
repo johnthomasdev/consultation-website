@@ -1,0 +1,3 @@
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.857964964073!2d76.3031!3d9.9674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b080d3e2e2e2e2e%3A0x7e2e2e2e2e2e2e2e!2sHITECH%20Polyclinic%2C%20KP%20Vallon%20Rd%2C%20Kadavanthra%2C%20Kochi%2C%20Kerala%2C%20India!5e0!3m2!1sen!2sin!4v1719150000000!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+This embed points to the exact address: HITECH Polyclinic, KP Vallon Rd, Kadavanthra, Kochi, Kerala, India.
