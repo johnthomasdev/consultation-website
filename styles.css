@@ -460,7 +460,11 @@ footer a:hover, footer a:focus {
     h2 { font-size: 18px; }
     h3 { font-size: 15px; }
     body { font-size: 15px; }
-    .portrait { width: 100px; height: 100px; }
+    .portrait {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 16px;
+    }
     .about, .services, .affiliations, .location, .contact {
         padding: 12px 4px 10px 4px;
         margin: 8px 0;
@@ -508,7 +512,11 @@ footer a:hover, footer a:focus {
     h2 { font-size: 15px; }
     h3 { font-size: 13px; }
     body { font-size: 14px; }
-    .portrait { width: 70px; height: 70px; }
+    .portrait {
+        width: 90px;
+        height: 90px;
+        margin-bottom: 12px;
+    }
     .about, .services, .affiliations, .location, .contact {
         padding: 6px 2px 5px 2px;
         margin: 4px 0;
